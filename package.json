@@ -1,0 +1,16 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Collection of LeetCode solutions in TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "exec": "ts-node"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "ts-jest": "^28.0.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
